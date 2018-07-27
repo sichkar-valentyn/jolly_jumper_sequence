@@ -1,3 +1,17 @@
+# File: jolly_jumper.py
+# Description: Checking if the input sequence is so called "jolly jumper"
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Checking if the input sequence is so called "jolly jumper" // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/jolly_jumper_sequence (date of access: XX.XX.XXXX)
+
+
+
+
 # Implementing the task
 # Checking if the input numbers are jolly jumper
 # Jolly jumper is a sequence that takes all possible values from 1 to n-1
@@ -28,3 +42,5 @@ for x in lst_new:
 
 if c:
     print('Jolly')
+
+    
