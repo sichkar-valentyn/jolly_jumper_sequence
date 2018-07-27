@@ -7,7 +7,7 @@ Checking if the input sequence is so called "jolly jumper"
 ## Description
 Program checks the input sequence for the feature of 'jolly jumper'.
 <br/>Jolly jumper is a sequence that takes all possible values from 1 to n-1 from subtraction of neighbour elements.
-<br>For example input sequence **1 -3 -4 1 -1** is 'jolly jumper', because result is the sequence **4 1 3 2** which consists of all posibble elements between 1 and 4(5-1).
+<br>For example input sequence **1 -3 -4 1 -1** is 'jolly jumper', because result is the sequence **4 1 3 2** which consists of all possible elements between 1 and 4(5-1).
 
 <br/>
 
